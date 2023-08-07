@@ -21,10 +21,10 @@ Youth Express is an anonymous chat application tailored for our church's youth(R
 - Firebase for anonymous authentication.
 
 ## 📸 Screenshots
+<img src="https://github.com/Olaisheretolearn/anonymouschat/assets/63797098/5dd9d121-dd8b-438b-9e3b-e43f725898d1" width="500">
 
+<img src="https://github.com/Olaisheretolearn/anonymouschat/assets/63797098/6173a7e9-4f2a-45e3-87b0-b5528119fd43" width="500">
 
-![WhatsApp Image 2023-08-06 at 10 10 27 PM](https://github.com/Olaisheretolearn/anonymouschat/assets/63797098/5dd9d121-dd8b-438b-9e3b-e43f725898d1)
-![WhatsApp Image 2023-08-06 at 10 10 30 PM](https://github.com/Olaisheretolearn/anonymouschat/assets/63797098/6173a7e9-4f2a-45e3-87b0-b5528119fd43)
 
 
 ## 📄 License

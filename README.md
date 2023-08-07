@@ -18,7 +18,6 @@ Youth Express is an anonymous chat application tailored for our church's youth(R
 - Node.js and Express for the backend server.
 - Socket.io for real-time communication.
 - HTML, CSS, and JavaScript for the frontend.
-- Firebase for anonymous authentication.
 
 ## 📸 Screenshots
 <img src="https://github.com/Olaisheretolearn/anonymouschat/assets/63797098/5dd9d121-dd8b-438b-9e3b-e43f725898d1" width="500">
